@@ -1,4 +1,6 @@
-# BZOJ (lydsy) testdata
+# THANKS GITHUB FOR LIMITING STORAGE USAGE. PLEASE USE TORRENTS.
+
+# BZOJ (lydsy) testdata (dark)
 
 **This repository is for educational purposes.**
 
